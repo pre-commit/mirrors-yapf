@@ -12,7 +12,7 @@ For yapf: see https://github.com/google/yapf
 
 Add this to your `.pre-commit-config.yaml`:
 
-    -   repo: git://github.com/pre-commit/mirrors-yapf
+    -   repo: https://github.com/pre-commit/mirrors-yapf
         sha: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: yapf
