@@ -1,8 +1,8 @@
--   id: yapf
-    name: yapf
-    entry: yapf
-    language: python
-    'types': [python]
-    args: ["-i"]
-    require_serial: false
-    additional_dependencies: []
+- id: yapf
+  name: yapf
+  entry: yapf
+  language: system
+  types: [python]
+  args: ["-i"]
+  require_serial: false
+  additional_dependencies: []
