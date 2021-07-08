@@ -5,4 +5,4 @@
     'types': [python]
     args: ["-i"]
     require_serial: false
-    additional_dependencies: []
+    additional_dependencies: [toml]
