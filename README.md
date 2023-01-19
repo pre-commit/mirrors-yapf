@@ -1,3 +1,9 @@
+# DEPRECATED
+
+use https://github.com/google/yapf directly  now instead \o/
+
+___
+
 yapf mirror
 ===========
 
